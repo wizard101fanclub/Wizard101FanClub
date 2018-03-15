@@ -1,0 +1,31 @@
+body {
+  font-family: "comic sans ms", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  background: #111;
+  color: #1982c4;
+}
+
+a {
+  text-decoration: none;
+  color: #1982c4;
+}
+
+a:hover {
+  color: #eeff00;
+  text-decoration: underline;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 4em;
+  color: #fff;
+}
+
+h2 {
+  font-size: 1em;
+  display: inline-block; 
+}
